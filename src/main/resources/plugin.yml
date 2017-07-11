@@ -1,0 +1,4 @@
+name: SwordvaleFactions
+version: ${project.version}
+main: net.swordvale.factions.SwordvaleFactions
+depend: [Factions]
